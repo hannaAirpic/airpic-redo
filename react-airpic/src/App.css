@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #F4C400;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 2.5em;
+}
+
+.App-body {
+  background-color: white;
+}
+
+.show-grid {
+  background-color: #DCDCDC;
+  height: 765px;
+}
+
+#action-tabs {
+  background-color: #F4C400;
+}
+
+#action-tabs ul > li.active > a,
+#action-tabs ul > li.active > a:hover,
+#action-tabs ul > li.active > a:focus {
+    background-color: white;
+    color: black;
+}
+
+.input-section {
+    border-top: 5px solid white;
+    padding-bottom: 10px;
+}
+
+.input-label {
+  padding-right: 6px;
+}
+
+.left-col {
+  text-align: right;
+  padding-right: 65px
+}
+
+.right-col {
+  text-align: left;
+  padding-left: 65px;
+}
+
+.form-group {
+  padding-bottom: 6px;
+}
